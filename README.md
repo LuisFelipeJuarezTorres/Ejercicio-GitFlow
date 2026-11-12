@@ -193,7 +193,7 @@ Por ejemplo, agrega una breve descripción del sistema en la siguiente sección:
 
 Escribe aquí una descripción breve del sistema:
 
-> Respuesta del estudiante: ...
+> Respuesta del estudiante: ... Sistema para practicar git, ramas según lo visto en clases
 
 Luego realice un commit:
 
@@ -269,6 +269,7 @@ Observe el historial y verifique que aparezcan las ramas, los commits y los merg
 ---
 
 ## Preguntas
+
 
 Responda las siguientes preguntas directamente en este archivo `README.md`.
 
